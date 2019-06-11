@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.medicalcare.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\user\\Desktop\\MedicalCare\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "MedicalCare [Testing]"
+        }
+      }
+    }
+  ]
+}

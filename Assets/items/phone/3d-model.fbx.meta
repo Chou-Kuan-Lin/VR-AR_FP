@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: 6c39df5e60ca61649bc8287638046c61
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 100-AB51350_001
+    100002: 100-GF1440_001
+    100004: 101-MLPPF126_001
+    100006: //RootNode
+    100008: Button 2_001
+    100010: Button 2_002
+    100012: Button 2_003
+    100014: Button 2_004
+    100016: Button 2_005
+    100018: Button 2_006
+    100020: Button 2_007
+    100022: Button 2_008
+    100024: Button 2_009
+    100026: Button 2_010
+    100028: Button 2_011
+    100030: Button 2_012
+    100032: Button 2_013
+    100034: Button_001
+    100036: Button_002
+    100038: Button_003
+    100040: Button_004
+    100042: Button_005
+    100044: Button_006
+    100046: Button_007
+    100048: Button_008
+    100050: Button_009
+    100052: Button_010
+    100054: Button_011
+    100056: Button_012
+    100058: Componente#10_001
+    100060: Componente#1_001
+    100062: Componente#24_001
+    100064: Componente#24_002
+    100066: Componente#24_003
+    100068: Componente#24_004
+    100070: Componente#24_005
+    100072: Componente#24_006
+    100074: Componente#24_007
+    100076: Componente#2_001
+    100078: Componente#4_001
+    100080: Componente#4_002
+    100082: Componente#4_003
+    100084: Componente#4_004
+    100086: D E L L_001
+    100088: D E L L_002
+    100090: EP-901A_001
+    100092: EPSON#1_001
+    100094: fine 0,4_001
+    100096: fine 0,4_002
+    100098: fine 0,4_003
+    100100: fine 0,4_004
+    100102: fine 0,4_005
+    100104: fine 0,4_006
+    100106: fine 0,4_007
+    100108: Group#11_001
+    100110: Group#12_001
+    100112: Group#13_001
+    100114: Group#14_001
+    100116: Group#15_001
+    100118: Group#16_001
+    100120: Group#17_001
+    100122: Group#18_001
+    100124: Group#19_001
+    100126: Group#20_001
+    100128: Group#21_001
+    100130: Group#22_001
+    100132: Group#23_001
+    100134: Group#24_001
+    100136: Group#25_001
+    100138: Group_001
+    100140: Group_002
+    100142: Group_003
+    100144: Group_004
+    100146: Group_005
+    100148: Group_006
+    100150: Group_007
+    100152: Group_008
+    100154: Group_009
+    100156: Group_010
+    100158: Group_012
+    100160: Group_013
+    100162: Group_014
+    100164: Group_015
+    100166: Group_016
+    100168: Group_017
+    100170: Group_018
+    100172: Group_019
+    100174: Group_020
+    100176: Group_021
+    100178: Group_022
+    100180: Group_023
+    100182: Group_024
+    100184: Group_025
+    100186: Group_027
+    100188: Group_028
+    100190: Group_029
+    100192: Group_031
+    100194: Group_032
+    100196: Handset_001
+    100198: Mouse_001
+    100200: point 88_001
+    100202: point 88_002
+    100204: point 88_003
+    100206: point 88_004
+    100208: point 88_005
+    100210: point 88_006
+    100212: point 88_007
+    100214: POL_DIR_CB_001
+    100216: PRINTER_ADF_001
+    100218: PRINTER_FRONT_PANEL_001
+    100220: PRINTER_MAIN_001
+    100222: Stabilo Pen#1_001
+    100224: Stabilo Pen#2_001
+    100226: Stabilo Pen#3_001
+    100228: Stabilo Pen#4_001
+    100230: Stabilo Pen#5_001
+    100232: Stabilo Pen#6_001
+    100234: Stabilo Pen_001
+    100236: STABILO_001
+    100238: STABILO_002
+    100240: STABILO_003
+    100242: STABILO_004
+    100244: STABILO_005
+    100246: STABILO_006
+    100248: STABILO_007
+    100250: Telephone_001
+    400000: 100-AB51350_001
+    400002: 100-GF1440_001
+    400004: 101-MLPPF126_001
+    400006: //RootNode
+    400008: Button 2_001
+    400010: Button 2_002
+    400012: Button 2_003
+    400014: Button 2_004
+    400016: Button 2_005
+    400018: Button 2_006
+    400020: Button 2_007
+    400022: Button 2_008
+    400024: Button 2_009
+    400026: Button 2_010
+    400028: Button 2_011
+    400030: Button 2_012
+    400032: Button 2_013
+    400034: Button_001
+    400036: Button_002
+    400038: Button_003
+    400040: Button_004
+    400042: Button_005
+    400044: Button_006
+    400046: Button_007
+    400048: Button_008
+    400050: Button_009
+    400052: Button_010
+    400054: Button_011
+    400056: Button_012
+    400058: Componente#10_001
+    400060: Componente#1_001
+    400062: Componente#24_001
+    400064: Componente#24_002
+    400066: Componente#24_003
+    400068: Componente#24_004
+    400070: Componente#24_005
+    400072: Componente#24_006
+    400074: Componente#24_007
+    400076: Componente#2_001
+    400078: Componente#4_001
+    400080: Componente#4_002
+    400082: Componente#4_003
+    400084: Componente#4_004
+    400086: D E L L_001
+    400088: D E L L_002
+    400090: EP-901A_001
+    400092: EPSON#1_001
+    400094: fine 0,4_001
+    400096: fine 0,4_002
+    400098: fine 0,4_003
+    400100: fine 0,4_004
+    400102: fine 0,4_005
+    400104: fine 0,4_006
+    400106: fine 0,4_007
+    400108: Group#11_001
+    400110: Group#12_001
+    400112: Group#13_001
+    400114: Group#14_001
+    400116: Group#15_001
+    400118: Group#16_001
+    400120: Group#17_001
+    400122: Group#18_001
+    400124: Group#19_001
+    400126: Group#20_001
+    400128: Group#21_001
+    400130: Group#22_001
+    400132: Group#23_001
+    400134: Group#24_001
+    400136: Group#25_001
+    400138: Group_001
+    400140: Group_002
+    400142: Group_003
+    400144: Group_004
+    400146: Group_005
+    400148: Group_006
+    400150: Group_007
+    400152: Group_008
+    400154: Group_009
+    400156: Group_010
+    400158: Group_012
+    400160: Group_013
+    400162: Group_014
+    400164: Group_015
+    400166: Group_016
+    400168: Group_017
+    400170: Group_018
+    400172: Group_019
+    400174: Group_020
+    400176: Group_021
+    400178: Group_022
+    400180: Group_023
+    400182: Group_024
+    400184: Group_025
+    400186: Group_027
+    400188: Group_028
+    400190: Group_029
+    400192: Group_031
+    400194: Group_032
+    400196: Handset_001
+    400198: Mouse_001
+    400200: point 88_001
+    400202: point 88_002
+    400204: point 88_003
+    400206: point 88_004
+    400208: point 88_005
+    400210: point 88_006
+    400212: point 88_007
+    400214: POL_DIR_CB_001
+    400216: PRINTER_ADF_001
+    400218: PRINTER_FRONT_PANEL_001
+    400220: PRINTER_MAIN_001
+    400222: Stabilo Pen#1_001
+    400224: Stabilo Pen#2_001
+    400226: Stabilo Pen#3_001
+    400228: Stabilo Pen#4_001
+    400230: Stabilo Pen#5_001
+    400232: Stabilo Pen#6_001
+    400234: Stabilo Pen_001
+    400236: STABILO_001
+    400238: STABILO_002
+    400240: STABILO_003
+    400242: STABILO_004
+    400244: STABILO_005
+    400246: STABILO_006
+    400248: STABILO_007
+    400250: Telephone_001
+    2100000: No Name
+    2100002: dbl_Group_002
+    2100004: dbl_Telephone_001
+    2100006: dbl_PRINTER_MAIN_001
+    2100008: dbl_Componente#2_001
+    2100010: dbl_Group_015
+    2100012: dbl_Group_016
+    2100014: dbl_D E L L_001
+    2100016: dbl_Group_014
+    2100018: dbl_Group_012
+    2100020: dbl_Group_013
+    2100022: dbl_EP-901A_001
+    2100024: dbl_Group_011
+    2100026: dbl_PRINTER_MAIN_005
+    2100028: dbl_Componente#1_001
+    2100030: dbl_Stabilo Pen#4_001
+    2100032: dbl_PRINTER_ADF_001
+    2100034: dbl_Componente#24_001
+    2100036: dbl_POL_DIR_CB_001
+    2100038: dbl_100-AB51350_005
+    2100040: dbl_100-AB51350_003
+    2100042: dbl_100-AB51350_002
+    2100044: dbl_101-MLPPF126_002
+    2100046: dbl_Group_001
+    2100048: dbl_100-AB51350_001
+    2100050: dbl_100-GF1440_001
+    2100052: dbl_101-MLPPF126_001
+    2100054: dbl_101-MLPPF126_003
+    2100056: dbl_100-AB51350_004
+    2100058: dbl_Group_003
+    2100060: dbl_Group_004
+    2100062: dbl_Group_005
+    2100064: dbl_Group_006
+    2100066: dbl_Group_007
+    2100068: dbl_Stabilo Pen#5_001
+    2100070: dbl_Stabilo Pen#5_003
+    2100072: dbl_Stabilo Pen#5_004
+    2100074: dbl_Stabilo Pen#2_001
+    2100076: dbl_Stabilo Pen#6_001
+    2100078: dbl_Stabilo Pen#1_001
+    2100080: dbl_Stabilo Pen#3_001
+    2100082: dbl_Stabilo Pen#5_002
+    2100084: dbl_PRINTER_MAIN_004
+    2100086: dbl_PRINTER_MAIN_003
+    2100088: dbl_PRINTER_FRONT_PANEL_001
+    2100090: dbl_PRINTER_FRONT_PANEL_002
+    2100092: dbl_PRINTER_MAIN_002
+    2300000: 100-AB51350_001
+    2300002: 100-GF1440_001
+    2300004: 101-MLPPF126_001
+    2300006: Button 2_001
+    2300008: Button 2_002
+    2300010: Button 2_003
+    2300012: Button 2_004
+    2300014: Button 2_005
+    2300016: Button 2_006
+    2300018: Button 2_007
+    2300020: Button 2_008
+    2300022: Button 2_009
+    2300024: Button 2_010
+    2300026: Button 2_011
+    2300028: Button 2_012
+    2300030: Button 2_013
+    2300032: Button_001
+    2300034: Button_002
+    2300036: Button_003
+    2300038: Button_004
+    2300040: Button_005
+    2300042: Button_006
+    2300044: Button_007
+    2300046: Button_008
+    2300048: Button_009
+    2300050: Button_010
+    2300052: Button_011
+    2300054: Button_012
+    2300056: Componente#10_001
+    2300058: Componente#1_001
+    2300060: Componente#24_001
+    2300062: Componente#24_002
+    2300064: Componente#24_003
+    2300066: Componente#24_004
+    2300068: Componente#24_005
+    2300070: Componente#24_006
+    2300072: Componente#24_007
+    2300074: Componente#2_001
+    2300076: Componente#4_001
+    2300078: Componente#4_002
+    2300080: Componente#4_003
+    2300082: Componente#4_004
+    2300084: D E L L_001
+    2300086: D E L L_002
+    2300088: EP-901A_001
+    2300090: EPSON#1_001
+    2300092: fine 0,4_001
+    2300094: fine 0,4_002
+    2300096: fine 0,4_003
+    2300098: fine 0,4_004
+    2300100: fine 0,4_005
+    2300102: fine 0,4_006
+    2300104: fine 0,4_007
+    2300106: Group#11_001
+    2300108: Group#12_001
+    2300110: Group#13_001
+    2300112: Group#14_001
+    2300114: Group#15_001
+    2300116: Group#16_001
+    2300118: Group#17_001
+    2300120: Group#18_001
+    2300122: Group#19_001
+    2300124: Group#20_001
+    2300126: Group#21_001
+    2300128: Group#22_001
+    2300130: Group#23_001
+    2300132: Group#24_001
+    2300134: Group#25_001
+    2300136: Group_001
+    2300138: Group_002
+    2300140: Group_003
+    2300142: Group_004
+    2300144: Group_005
+    2300146: Group_006
+    2300148: Group_007
+    2300150: Group_008
+    2300152: Group_009
+    2300154: Group_010
+    2300156: Group_012
+    2300158: Group_013
+    2300160: Group_014
+    2300162: Group_015
+    2300164: Group_016
+    2300166: Group_017
+    2300168: Group_018
+    2300170: Group_019
+    2300172: Group_020
+    2300174: Group_021
+    2300176: Group_022
+    2300178: Group_023
+    2300180: Group_024
+    2300182: Group_025
+    2300184: Group_027
+    2300186: Group_028
+    2300188: Group_029
+    2300190: Group_031
+    2300192: Group_032
+    2300194: Handset_001
+    2300196: Mouse_001
+    2300198: point 88_001
+    2300200: point 88_002
+    2300202: point 88_003
+    2300204: point 88_004
+    2300206: point 88_005
+    2300208: point 88_006
+    2300210: point 88_007
+    2300212: POL_DIR_CB_001
+    2300214: PRINTER_ADF_001
+    2300216: PRINTER_FRONT_PANEL_001
+    2300218: PRINTER_MAIN_001
+    2300220: Stabilo Pen#1_001
+    2300222: Stabilo Pen#2_001
+    2300224: Stabilo Pen#3_001
+    2300226: Stabilo Pen#4_001
+    2300228: Stabilo Pen#5_001
+    2300230: Stabilo Pen#6_001
+    2300232: Stabilo Pen_001
+    2300234: STABILO_001
+    2300236: STABILO_002
+    2300238: STABILO_003
+    2300240: STABILO_004
+    2300242: STABILO_005
+    2300244: STABILO_006
+    2300246: STABILO_007
+    2300248: Telephone_001
+    3300000: 100-AB51350_001
+    3300002: 100-GF1440_001
+    3300004: 101-MLPPF126_001
+    3300006: Button 2_001
+    3300008: Button 2_002
+    3300010: Button 2_003
+    3300012: Button 2_004
+    3300014: Button 2_005
+    3300016: Button 2_006
+    3300018: Button 2_007
+    3300020: Button 2_008
+    3300022: Button 2_009
+    3300024: Button 2_010
+    3300026: Button 2_011
+    3300028: Button 2_012
+    3300030: Button 2_013
+    3300032: Button_001
+    3300034: Button_002
+    3300036: Button_003
+    3300038: Button_004
+    3300040: Button_005
+    3300042: Button_006
+    3300044: Button_007
+    3300046: Button_008
+    3300048: Button_009
+    3300050: Button_010
+    3300052: Button_011
+    3300054: Button_012
+    3300056: Componente#10_001
+    3300058: Componente#1_001
+    3300060: Componente#24_001
+    3300062: Componente#24_002
+    3300064: Componente#24_003
+    3300066: Componente#24_004
+    3300068: Componente#24_005
+    3300070: Componente#24_006
+    3300072: Componente#24_007
+    3300074: Componente#2_001
+    3300076: Componente#4_001
+    3300078: Componente#4_002
+    3300080: Componente#4_003
+    3300082: Componente#4_004
+    3300084: D E L L_001
+    3300086: D E L L_002
+    3300088: EP-901A_001
+    3300090: EPSON#1_001
+    3300092: fine 0,4_001
+    3300094: fine 0,4_002
+    3300096: fine 0,4_003
+    3300098: fine 0,4_004
+    3300100: fine 0,4_005
+    3300102: fine 0,4_006
+    3300104: fine 0,4_007
+    3300106: Group#11_001
+    3300108: Group#12_001
+    3300110: Group#13_001
+    3300112: Group#14_001
+    3300114: Group#15_001
+    3300116: Group#16_001
+    3300118: Group#17_001
+    3300120: Group#18_001
+    3300122: Group#19_001
+    3300124: Group#20_001
+    3300126: Group#21_001
+    3300128: Group#22_001
+    3300130: Group#23_001
+    3300132: Group#24_001
+    3300134: Group#25_001
+    3300136: Group_001
+    3300138: Group_002
+    3300140: Group_003
+    3300142: Group_004
+    3300144: Group_005
+    3300146: Group_006
+    3300148: Group_007
+    3300150: Group_008
+    3300152: Group_009
+    3300154: Group_010
+    3300156: Group_012
+    3300158: Group_013
+    3300160: Group_014
+    3300162: Group_015
+    3300164: Group_016
+    3300166: Group_017
+    3300168: Group_018
+    3300170: Group_019
+    3300172: Group_020
+    3300174: Group_021
+    3300176: Group_022
+    3300178: Group_023
+    3300180: Group_024
+    3300182: Group_025
+    3300184: Group_027
+    3300186: Group_028
+    3300188: Group_029
+    3300190: Group_031
+    3300192: Group_032
+    3300194: Handset_001
+    3300196: Mouse_001
+    3300198: point 88_001
+    3300200: point 88_002
+    3300202: point 88_003
+    3300204: point 88_004
+    3300206: point 88_005
+    3300208: point 88_006
+    3300210: point 88_007
+    3300212: POL_DIR_CB_001
+    3300214: PRINTER_ADF_001
+    3300216: PRINTER_FRONT_PANEL_001
+    3300218: PRINTER_MAIN_001
+    3300220: Stabilo Pen#1_001
+    3300222: Stabilo Pen#2_001
+    3300224: Stabilo Pen#3_001
+    3300226: Stabilo Pen#4_001
+    3300228: Stabilo Pen#5_001
+    3300230: Stabilo Pen#6_001
+    3300232: Stabilo Pen_001
+    3300234: STABILO_001
+    3300236: STABILO_002
+    3300238: STABILO_003
+    3300240: STABILO_004
+    3300242: STABILO_005
+    3300244: STABILO_006
+    3300246: STABILO_007
+    3300248: Telephone_001
+    4300000: Handset_001
+    4300002: Button 2_013
+    4300004: Button 2_012
+    4300006: Button 2_011
+    4300008: Button 2_010
+    4300010: Button 2_009
+    4300012: Button 2_008
+    4300014: Button 2_007
+    4300016: Button 2_006
+    4300018: Button 2_005
+    4300020: Button 2_004
+    4300022: Button 2_003
+    4300024: Button 2_002
+    4300026: Button 2_001
+    4300028: Button_012
+    4300030: Button_011
+    4300032: Button_010
+    4300034: Button_009
+    4300036: Button_008
+    4300038: Button_007
+    4300040: Button_006
+    4300042: Button_005
+    4300044: Button_004
+    4300046: Button_003
+    4300048: Button_002
+    4300050: Button_001
+    4300052: Telephone_001
+    4300054: Mouse_001
+    4300056: Componente#2_001
+    4300058: Group_032
+    4300060: Group_031
+    4300062: D E L L_002
+    4300064: D E L L_001
+    4300066: Group_029
+    4300068: Componente#10_001
+    4300070: Componente#4_004
+    4300072: Componente#4_003
+    4300074: Componente#4_002
+    4300076: Componente#1_001
+    4300078: Componente#4_001
+    4300080: Componente#24_007
+    4300082: Componente#24_006
+    4300084: Componente#24_005
+    4300086: Componente#24_004
+    4300088: Componente#24_003
+    4300090: Componente#24_002
+    4300092: Componente#24_001
+    4300094: Group_028
+    4300096: Group_027
+    4300098: Group_025
+    4300100: Group_024
+    4300102: Group_023
+    4300104: Group_022
+    4300106: Group_021
+    4300108: Group_020
+    4300110: Group_019
+    4300112: Group_018
+    4300114: Group_017
+    4300116: Group_016
+    4300118: Group_015
+    4300120: Group_014
+    4300122: Group_013
+    4300124: Group_012
+    4300126: Group_010
+    4300128: Group_009
+    4300130: Group_008
+    4300132: Group_007
+    4300134: POL_DIR_CB_001
+    4300136: 100-GF1440_001
+    4300138: 101-MLPPF126_001
+    4300140: Group#25_001
+    4300142: Group#24_001
+    4300144: Group#23_001
+    4300146: Group#22_001
+    4300148: Group#21_001
+    4300150: Group#20_001
+    4300152: Group#19_001
+    4300154: Group#18_001
+    4300156: Group#17_001
+    4300158: Group#16_001
+    4300160: Group#15_001
+    4300162: Group#14_001
+    4300164: Group#13_001
+    4300166: Group#12_001
+    4300168: Group#11_001
+    4300170: 100-AB51350_001
+    4300172: Group_006
+    4300174: Group_005
+    4300176: fine 0,4_007
+    4300178: STABILO_007
+    4300180: point 88_007
+    4300182: Stabilo Pen#4_001
+    4300184: fine 0,4_006
+    4300186: STABILO_006
+    4300188: point 88_006
+    4300190: Stabilo Pen#2_001
+    4300192: fine 0,4_005
+    4300194: STABILO_005
+    4300196: point 88_005
+    4300198: Stabilo Pen_001
+    4300200: fine 0,4_004
+    4300202: STABILO_004
+    4300204: point 88_004
+    4300206: Stabilo Pen#6_001
+    4300208: fine 0,4_003
+    4300210: STABILO_003
+    4300212: point 88_003
+    4300214: Stabilo Pen#1_001
+    4300216: fine 0,4_002
+    4300218: STABILO_002
+    4300220: point 88_002
+    4300222: Stabilo Pen#3_001
+    4300224: Group_004
+    4300226: fine 0,4_001
+    4300228: STABILO_001
+    4300230: point 88_001
+    4300232: Stabilo Pen#5_001
+    4300234: PRINTER_FRONT_PANEL_001
+    4300236: PRINTER_ADF_001
+    4300238: EP-901A_001
+    4300240: EPSON#1_001
+    4300242: PRINTER_MAIN_001
+    4300244: Group_003
+    4300246: Group_002
+    4300248: Group_001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
